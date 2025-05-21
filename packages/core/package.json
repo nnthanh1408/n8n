@@ -68,5 +68,7 @@
     "winston": "3.14.2",
     "xml2js": "catalog:",
     "zod": "catalog:"
+    "puppeteer": "1.4.1",
+    "chromium": "136.0.7103.88"
   }
 }
